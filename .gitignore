@@ -1,3 +1,8 @@
 data/
 *.csv
+<<<<<<< HEAD
 *.xlsx
+=======
+*.xlsx
+*.zip
+>>>>>>> 23f54c9 (abort)
