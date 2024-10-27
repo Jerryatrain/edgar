@@ -1,16 +1,5 @@
 data/
 *.csv
-<<<<<<< HEAD
-<<<<<<< HEAD
-*.xlsx
-=======
-*.xlsx
 *.zip
->>>>>>> 23f54c9 (abort)
-=======
-*.xlsx
-*.zip
-=======
-*.xlsx
->>>>>>> origin/main
->>>>>>> dc676a0 (Squashed commit of the following:)
+.DS_Store
+*.pkl
